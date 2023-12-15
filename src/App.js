@@ -1,6 +1,6 @@
 // App.js
 import React from 'react';
-import Quiz from './components/quiz';
+import Quiz from './components/Quiz';
 import './index.css'
 
 const questions = [
